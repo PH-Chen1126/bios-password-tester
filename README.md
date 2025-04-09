@@ -31,3 +31,21 @@ It was designed as a self-driven side project to demonstrate:
 
 ```bash
 python test_bios.py
+```
+
+---
+
+## bios-password-tester/
+```
+├── bios_sim.py       # Core logic
+├── test_bios.py      # Automated unit tests
+└── README.md         # Project description
+```
+
+---
+
+Why I Built This
+To prepare for a software validation internship,
+I challenged myself to implement a BIOS-like feature and test it thoroughly.
+It’s a learning-focused project to demonstrate:
+Self-motivation, testing mindset, and system-level awareness.
